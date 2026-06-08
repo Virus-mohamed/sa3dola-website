@@ -1,0 +1,6 @@
+{
+  "name": "Sa3dola Gaming Streamer Portal",
+  "description": "Official gaming landing page for Sa3dola, the PUBG mobile and multi-game streamer, featuring a premium glassmorphic bright aqua theme and full-screen water background video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
